@@ -1,5 +1,5 @@
 # Анимации
   http://animista.net
 
-#Градиенты
+# Градиенты
   https://webgradients.com/?ref=producthunt
