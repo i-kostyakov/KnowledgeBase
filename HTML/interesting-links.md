@@ -1,0 +1,5 @@
+**A list of everything that could go in the <head> of your document**
+
+http://gethead.info/
+
+https://github.com/joshbuchea/HEAD
